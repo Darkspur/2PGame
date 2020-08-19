@@ -1,0 +1,38 @@
+Characters: Only 2 Players to choose 
+
+Mode: 1 v 1 || 1 v comp
+
+Battle Mode:
+	Health
+	Mana
+	Spells
+	Attack
+	Defend/Heal
+
+Hero 1:
+	Nuker
+		Spell(Mana Cost): 
+			Lethal Blow(150),damage:100
+		Attack:
+			Strike,damage:20
+		Defend:
+			Shield,damage_block:15
+		HP:
+			700, no regeneration
+		Mana:
+			300, +10 per move
+Hero 2:
+	Disabler
+		Spell(Mana Cost):
+			Disable(200),damage: complete block enemy attack
+		Attack:
+			Orbs,damage:30
+		Heal:
+			Restore(50),heal:30
+		HP:
+			500, no regeneration
+		Mana:
+			500, +25 per move
+
+
+
